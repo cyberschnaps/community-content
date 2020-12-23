@@ -1,3 +1,13 @@
+- title: Caroster
+  url: https://caroster.io/
+  description: Caroster is a carpooling webapp made with Strapi, and React.js
+  categories:
+    - Startup
+    - WebApp
+  frontend:
+    - React.js
+  made_by: Octree, Lean Startup Studio
+  made_by_url: https://octree.ch
 - title: AllDadsTalk
   url: https://alldadstalk.com
   description: Blog webapp made with Strapi, Next.js and Styled Components.
